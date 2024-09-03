@@ -1,0 +1,40 @@
+h1,h2,h3{
+    text-align: center;
+    font-style: italic;
+    background-color: beige;
+}
+body{
+    background-color: bisque;
+}
+
+p{
+    background-image: url("1700488940348.jpeg");
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-size: cover;
+}       
+li{
+    list-style-type:lower-alpha;
+
+}   
+img{
+    width: 400px;
+    height: 200px;
+}
+table,th,td{
+    border: 3px solid;
+    text-align: center;
+    width: 70%;
+
+}
+.head2{
+    background-color: blue;
+    margin: 40px 100px 40px 100px;
+    padding: 20px;
+    border: 20px solid black;
+    border-radius: 90px;
+}
+.head3{
+    margin-left: 400px;
+
+}
